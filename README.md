@@ -7,7 +7,7 @@ This project focuses on analyzing and predicting **customer churn** in the telec
 ---
 
 ## 📁 Repository Structure
-
+```bash
 ├── Churn Analysis.pbix # Power BI Dashboard for churn visualization
 ├── Data Cleaning and Preprocessing(Task-1).docx # Report on data cleaning process
 ├── Data segmentation.docx # Segmentation insights documentation
@@ -21,7 +21,7 @@ This project focuses on analyzing and predicting **customer churn** in the telec
 ├── Tasks 5 Customer Retention Strategies.ipynb
 ├── Telco_Customer_Churn_Dataset.csv # Input dataset
 
-
+```
 ---
 
 ## 📊 Project Workflow
